@@ -1,15 +1,15 @@
 [
   {
-    "remote": "BlissRoms-Devices", 
-    "repository": "android_device_lge_g2-common",
+    "remote": "github", 
+    "repository": "electrikjesus/android_device_lge_g2-common",
     "target_path": "device/lge/g2-common",
     "revision": "mm6.0"
   },
   {
-    "remote": "BlissRoms-Kernels",
-    "repository": "android_kernel_lge_msm8974",
+    "remote": "github",
+    "repository": "electrikjesus/android_kernel_lge_msm8974",
     "target_path": "kernel/lge/msm8974",
-    "revision": "cm-13.0-testing"
+    "revision": "cm-13.0"
   },
   {
     "remote": "cm",
@@ -25,7 +25,7 @@
   },
   {
     "remote": "github",
-    "repository": "TheMuppets/proprietary_vendor_lge",
+    "repository": "electrikjesus/proprietary_vendor_lge",
     "target_path": "vendor/lge",
     "revision": "cm-13.0"
   }
