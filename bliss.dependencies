@@ -10,7 +10,7 @@
     "repository": "electrikjesus/android_vendor_lge_d800",
     "target_path": "vendor/lge/d800",
     "revision": "mm6.0"
-  }
+  },
   {
     "remote": "github", 
     "repository": "electrikjesus/android_vendor_lge_g2-common",
