@@ -15,13 +15,13 @@
     "remote": "cm",
     "repository": "android_hardware_qcom_media-v4l2",
     "target_path": "hardware/qcom/media-v4l2",
-    "revision": "cm-13.0"
+    "revision": "cm-11.0"
   },
   {
     "remote": "cm",
     "repository": "android_hardware_qcom_display-mdss",
     "target_path": "hardware/qcom/display-mdss",
-    "revision": "cm-13.0"
+    "revision": "cm-10.2"
   },
   {
     "remote": "cm",
