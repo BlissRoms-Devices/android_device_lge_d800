@@ -1,5 +1,5 @@
 # Inherit some common Bliss stuff.
-$(call inherit-product, vendor/bliss/config/common_full_phone.mk)
+$(call inherit-product, vendor/bliss/config/common.mk)
 
 # Enhanced NFC
 $(call inherit-product, vendor/bliss/config/nfc_enhanced.mk)
