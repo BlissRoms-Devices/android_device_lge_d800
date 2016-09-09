@@ -21,7 +21,7 @@ $(call inherit-product, device/lge/g2-common/g2.mk)
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
 # NFC
-$(call inherit-product, device/lge/g2-common/nfc.mk)
+# $(call inherit-product, device/lge/g2-common/nfc.mk)
 
 # Sensors
 PRODUCT_COPY_FILES += \
