@@ -1,7 +1,7 @@
 [
   {
     "remote": "github", 
-    "repository": "BlissRoms-Devices/android_device_lge_g2-common",
+    "repository": "electrikjesus/device_lge_g2-common-2",
     "target_path": "device/lge/g2-common",
     "revision": "n7.0"
   },
