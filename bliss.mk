@@ -2,7 +2,7 @@
 $(call inherit-product, vendor/bliss/config/common.mk)
 
 # Enhanced NFC
-$(call inherit-product, vendor/bliss/config/nfc_enhanced.mk)
+# $(call inherit-product, vendor/bliss/config/nfc_enhanced.mk)
 
 # Inherit device configuration
 $(call inherit-product, device/lge/d800/d800.mk)
