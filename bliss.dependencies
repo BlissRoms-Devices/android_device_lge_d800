@@ -12,32 +12,32 @@
     "revision": "n7.0"
   },
   {
-    "remote": "cm",
-    "repository": "android_hardware_qcom_media-v4l2",
+    "remote": "github",
+    "repository": "cyanogenmod/android_hardware_qcom_media-v4l2",
     "target_path": "hardware/qcom/media-v4l2",
     "revision": "cm-11.0"
   },
   {
-    "remote": "cm",
-    "repository": "android_hardware_qcom_display-mdss",
+    "remote": "github",
+    "repository": "cyanogenmod/android_hardware_qcom_display-mdss",
     "target_path": "hardware/qcom/display-mdss",
     "revision": "cm-10.2"
   },
   {
-    "remote": "cm",
-    "repository": "android_device_qcom_common",
+    "remote": "github",
+    "repository": "cyanogenmod/android_device_qcom_common",
     "target_path": "device/qcom/common",
     "revision": "cm-14.0"
   },
   {
-    "remote": "cm",
-    "repository": "android_external_stlport",
+    "remote": "github",
+    "repository": "cyanogenmod/android_external_stlport",
     "target_path": "external/stlport",
     "revision": "cm-14.0"
   },
   {
-    "remote": "cm",
-    "repository": "android_external_sony_boringssl-compat",
+    "remote": "github",
+    "repository": "cyanogenmod/android_external_sony_boringssl-compat",
     "target_path": "external/sony/boringssl-compat",
     "revision": "cm-14.0"
   },
